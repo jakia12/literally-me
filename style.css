@@ -167,6 +167,10 @@ img.pos_1 {
   .tkn_img {
     margin-top: 60px;
   }
+
+  .title {
+    font-size: 70px;
+  }
   .img_icon {
     margin-top: 22px;
   }
