@@ -175,9 +175,25 @@ img.pos_1 {
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   padding: 30px 0 50px;
 }
+.htb_img {
+  width: 100%;
+  max-width: 475px;
+  position: absolute;
+  left: -27%;
+  top: -28%;
+}
 @media screen and (max-width: 768px) {
   .tkn_img {
     margin-top: 60px;
+  }
+  .htb_img {
+    width: 100%;
+    max-width: 475px;
+    position: static;
+    margin-bottom: 20px;
+  }
+  .hbti {
+    margin-bottom: 20px;
   }
   .icon_grid {
     display: grid;
