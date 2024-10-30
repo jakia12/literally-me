@@ -225,19 +225,19 @@ img.pos_1 {
 
 /* all bg section */
 .abt_bg {
-  background-image: url(/images/bg3.png);
+  /* background-image: url(/images/bg3.png); */
   background-size: cover;
   background-position: center center;
 }
 
 .tkn_bg {
-  background-image: url(/images/bg.png);
+  /* background-image: url(/images/bg.png); */
   background-size: cover;
   background-position: center center;
 }
 
 .htb_bg {
-  background-image: url(/images/bg2.png);
+  /* background-image: url(/images/bg2.png); */
   background-size: cover;
   background-position: center center;
 }
